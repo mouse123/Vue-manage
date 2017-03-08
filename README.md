@@ -8,7 +8,7 @@ git clone
 cd vue-manage
 
 npm install
-# gitbash or cmd
+## gitbash or cmd
 node app && npm rum dev 
 
 open localhost:/8081
