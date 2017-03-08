@@ -1,5 +1,5 @@
 # vue-manage
-[demo](https://github.com/mouse123/mouse.github.io/dist/index.html)
+[demo](https://mouse123.github.io/vue-manage/dist/index.html)
 
 ## Build Setup
 
